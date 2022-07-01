@@ -4,20 +4,23 @@
 
 ### processaCallback.js:
 <p >
-    - código crescendo para frente 
+    - Exemplo de código para leitura de arquivos usando callback
+
     
 </p>
 
 ### processaPromises.js:
 <p >
-    - código crescendo para baixo
+    - Exemplo de código para leitura de arquivos usando Promises
+
     
 </p>
 
 
 ### processaAsyncAwait.js:
 <p >
-    - melhor para a manutenção do código
+    - Exemplo de código para leitura de arquivos usando async/await
+
     
 </p>
 
